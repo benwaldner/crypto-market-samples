@@ -1,5 +1,6 @@
 Personal notes:
 Introduction: https://steemit.com/utopian-io/@imwatsi/automatic-stop-loss-and-take-profit-orders-for-bitmex-using-python
+And a general one: https://leofinance.io/@imwatsi/creating-a-bitmex-automatic-stop-loss-and-take-profit-bot
 
 Compare: https://github.com/benwaldner/bitmex-auto-sl-tp?organization=benwaldner&organization=benwaldner
 
